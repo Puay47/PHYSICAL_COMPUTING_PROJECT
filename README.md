@@ -44,11 +44,12 @@ BPM คือ ค่าอัตราการเต้นของหัวใ
 นำค่า BPM ที่เซ็นเซอร์อ่านได้มาแสดงบน OLED โดยให้ดีเลย์ประมาณ 0.5 - 1 วินาที
 <img src="https://github.com/Puay47/PHYSICAL_COMPUTING_PROJECT/blob/main/bbpng.png?raw=true">
 
-โปรแกรมการทำงานของวงจร Smart Dice : https://www.tinkercad.com/things/0Q0A5c8MR0S-bodacious-luulia/editel?sharecode=c8WC7zmIZEIyshW-YH5nPVlcUAl67TDmga5AnHoQYaM
+โปรแกรมการทำงานของวงจร H3art beat : https://www.tinkercad.com/things/3JnHlTND9Nj?sharecode=hy-xesalI0QL_Er3QbQkShSM_nw5H6JsT_sgqaOMocg
+## เนื่องจากtinkercad ไม่สามารถแสดงสิ่งที่เราทำได้ เนื่องจากไม่มีอุปกรณ์ลองรับ เราเลยทำการจำลองขี้นมาให้เหมือนกับสิ่งที่เราทำที่สุด
 
 
 # YouTube สาธิตการทำงาน
-
+https://youtube.com/shorts/QP3tDHv4xtg?si=jpfG4u_MENQNA-tv
 
 # Source Code
 
@@ -62,5 +63,6 @@ BPM คือ ค่าอัตราการเต้นของหัวใ
 2. นายจารุพงศ์ ทองมาก 65070031
 3. นายศิวกร สมจิตร์ 65070220
 4. นางสาวรุ่งนภา แช่มชื่น 65070199
+   
 &emsp;&emsp;รายงานนี้เป็นส่วนหนึ่งของวิชา PHYSICAL COMPUTING สาขาวิชาเทคโนโลยีสารสนเทศ ภาคเรียนที่ 1 ปีการศึกษา 2566
 คณะเทคโนโลยีสารสนเทศ สถาบันเทคโนโลยีพระจอมเกล้าเจ้าคุณทหารลาดกระบัง
