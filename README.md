@@ -45,7 +45,7 @@ BPM คือ ค่าอัตราการเต้นของหัวใ
 <img src="https://github.com/Puay47/PHYSICAL_COMPUTING_PROJECT/blob/main/Board.png?raw=true">
 
 โปรแกรมการทำงานของวงจร H3art beat : https://www.tinkercad.com/things/3JnHlTND9Nj?sharecode=hy-xesalI0QL_Er3QbQkShSM_nw5H6JsT_sgqaOMocg
-## เนื่องจากtinkercad ไม่สามารถแสดงสิ่งที่เราทำได้ เนื่องจากไม่มีอุปกรณ์ลองรับ เราเลยทำการจำลองขี้นมาให้เหมือนกับสิ่งที่เราทำที่สุด
+## เนื่องจากtinkercad ไม่สามารถแสดงสิ่งที่เราทำได้ เนื่องจากไม่มีอุปกรณ์ลองรับ เราเลยทำการจำลองขึ้นมาให้เหมือนกับสิ่งที่เราทำที่สุด
 
 
 # YouTube สาธิตการทำงาน
