@@ -42,7 +42,7 @@ IR คือ ค่าตัวแปรแทน Checkforbeat (Check for Heartb
 
 BPM คือ ค่าอัตราการเต้นของหัวใจ
 นำค่า BPM ที่เซ็นเซอร์อ่านได้มาแสดงบน OLED โดยให้ดีเลย์ประมาณ 0.5 - 1 วินาที
-<img src="https://github.com/Puay47/PHYSICAL_COMPUTING_PROJECT/blob/main/bbpng.png?raw=true">
+<img src="https://github.com/Puay47/PHYSICAL_COMPUTING_PROJECT/blob/main/Board.png?raw=true">
 
 โปรแกรมการทำงานของวงจร H3art beat : https://www.tinkercad.com/things/3JnHlTND9Nj?sharecode=hy-xesalI0QL_Er3QbQkShSM_nw5H6JsT_sgqaOMocg
 ## เนื่องจากtinkercad ไม่สามารถแสดงสิ่งที่เราทำได้ เนื่องจากไม่มีอุปกรณ์ลองรับ เราเลยทำการจำลองขี้นมาให้เหมือนกับสิ่งที่เราทำที่สุด
